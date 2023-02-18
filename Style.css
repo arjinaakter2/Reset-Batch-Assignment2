@@ -31,16 +31,21 @@ background: rgba(255, 144, 14, 0.1);
    width: 700px;
    margin-left: 80px;
    border-radius: 8px;
-   margin-top: 15px;
-    
- }
- .mainPart{
+   margin-top: 15px;}
+   
+   .mainPart2{
+ display: flex;
+   }
+ 
+ .mainPart1{
     display: flex;
     margin-top: 15px;
  }
  
  .image{
    border-radius: 20px;
+   height: 342px;
+   width: 342px;
  }
  .images{
     display: grid;
@@ -49,4 +54,34 @@ background: rgba(255, 144, 14, 0.1);
  }
  .text{
     margin-left: 15px;
+    width: 537px;
+    height: 301px;
  }
+ .borderStyle{
+    border-left: 2px solid orangered;
+ }
+ .img2{
+    height: 880px;
+    width: 240px;
+ }
+ .blog{
+    height: 586px;
+    width: 240px;
+ }
+ .mainPart2{
+    margin-top: 20px;
+ }
+ .subBlog{
+    border: 2px solid white;
+    background-color:wheat;
+    color: black;
+    border-radius: 15px;
+ }
+  .extraBtn{
+    text-align: center;
+    margin-top: 70px;
+    border: 0;
+    background-color: orangered;
+    margin-left: 580px;
+    align-items: center;
+  }
