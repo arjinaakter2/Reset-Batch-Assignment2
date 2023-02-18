@@ -1,0 +1,36 @@
+.headPart{
+    display: flex;
+    margin-left: 20px;
+}
+ .headPart .sub{
+    display: flex;
+    margin-left: 200px;
+    gap: 10px;
+ }
+ header{
+    
+
+background: rgba(255, 144, 14, 0.1);
+ }
+ .headPart2{
+    text-align: center;
+
+ }
+ .btn1{
+   
+ background-color:orangered;
+ width: 100px;
+ size: 20px;
+ border: 0;
+ border-radius: 10px;
+ }
+
+ .imgPart{
+   background-image: url(images/banner.png);
+   height: 500px;
+   width: 700px;
+   margin-left: 80px;
+   border-radius: 8px;
+   margin-top: 15px;
+    
+ }
