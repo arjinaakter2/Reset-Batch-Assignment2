@@ -110,3 +110,9 @@ background: rgba(255, 144, 14, 0.1);
     background-color: brown;
     transform: rotate(45deg);
   }
+  footer{
+
+    text-align: center;
+    background: rgba(255, 144, 14, 0.1);
+    padding: 10px;
+  }
